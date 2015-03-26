@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="203"
+   name=""
+   committed-date="2006-05-26T10:46:01.375714Z"
+   url="svn://svn.phpontrax.com/trax_repository/trax/trunk/trax/vendor/trax/templates/scaffolds/generator_templates"
+   last-author="john"
+   kind="dir"
+   uuid="5ca1ab1f-80fb-0310-a73b-b7d6d46588e9"
+   repos="svn://svn.phpontrax.com/trax_repository"
+   revision="290"/>
+<entry
+   committed-rev="199"
+   name="layout.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-05T01:52:43.249697Z"
+   checksum="6cae2274199b5e58cada8b178f183cae"
+   last-author="haas"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="199"
+   name="view_edit.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-05T01:52:43.249697Z"
+   checksum="b1a7b329a80e3ff7f177a8dd828274a9"
+   last-author="haas"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="203"
+   name="view_index.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-26T10:46:01.375714Z"
+   checksum="19bc9af6ea32e030a48c7c9c0bbcfcea"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="199"
+   name="form_scaffolding.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-05T01:52:43.249697Z"
+   checksum="37e19da5e99139e54fd250cd986518f7"
+   last-author="haas"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="199"
+   name="view_add.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-05T01:52:43.249697Z"
+   checksum="1ab14b7506633c41535699ca481ca715"
+   last-author="haas"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="113"
+   name="style.css"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-12T12:24:23.590159Z"
+   checksum="9bfa05a7cea3923251c617b246b11fb8"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="199"
+   name="controller.php"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-05T01:52:43.249697Z"
+   checksum="5573981912a8de9dc6981c151d724c31"
+   last-author="haas"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="199"
+   name="view_show.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-05T01:52:43.249697Z"
+   checksum="a64f1842135c188bb1e70d30cfb8eef6"
+   last-author="haas"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+</wc-entries>

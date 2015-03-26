@@ -1,0 +1,13 @@
+<?php if(count($$model_object_name->content_columns)): ?>
+    <?php foreach($$model_object_name->content_columns as $column): ?>
+        <p>
+            <b><?php echo $column['human_name'] ?>:</b>&nbsp;
+            <?php echo $$model_object_name->$column['name'] ?>
+        </p>
+    <?php endforeach; ?>
+<?php else: ?>
+    no table info found.<br>
+<?php endif; ?>
+<br>
+<?php echo link_to("Edit", array(":action" => "edit", ":id" => $$model_object_name)) ?> |
+<?php echo link_to("Back", array(":action" => "index")) ?>

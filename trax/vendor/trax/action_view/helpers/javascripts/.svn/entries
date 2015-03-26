@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="226"
+   name=""
+   committed-date="2006-06-21T17:53:01.300861Z"
+   url="svn://svn.phpontrax.com/trax_repository/trax/trunk/trax/vendor/trax/action_view/helpers/javascripts"
+   last-author="john"
+   kind="dir"
+   uuid="5ca1ab1f-80fb-0310-a73b-b7d6d46588e9"
+   repos="svn://svn.phpontrax.com/trax_repository"
+   revision="290"/>
+<entry
+   committed-rev="226"
+   name="prototype.js"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-06-21T17:53:01.300861Z"
+   checksum="5f354e32314fa68bdf28d26d270dd8af"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+<entry
+   committed-rev="226"
+   name="builder.js"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-06-21T17:53:01.300861Z"
+   checksum="6b737ecca99b73e70149195653627e4a"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+<entry
+   committed-rev="226"
+   name="effects.js"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-06-21T17:53:01.300861Z"
+   checksum="1bc84762221c3e870a9d82a1d526d787"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+<entry
+   committed-rev="226"
+   name="scriptaculous.js"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-06-21T17:53:01.300861Z"
+   checksum="ba6e48c926618bb08b6a5853efeb2463"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+<entry
+   committed-rev="226"
+   name="dragdrop.js"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-06-21T17:53:01.300861Z"
+   checksum="1797e48f8c6af19970ea3546271fee8d"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+<entry
+   committed-rev="226"
+   name="slider.js"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-06-21T17:53:01.300861Z"
+   checksum="e1169fc74b36a0c1529a15a85feda299"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+<entry
+   committed-rev="226"
+   name="controls.js"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-06-21T17:53:01.300861Z"
+   checksum="65ab2d9a4210c841e4e595ed01a97c44"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+</wc-entries>

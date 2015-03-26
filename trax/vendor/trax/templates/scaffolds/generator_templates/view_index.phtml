@@ -1,0 +1,30 @@
+<h1>Listing <?php echo $plural_model_name ?></h1>
+
+<table border="0" cellpadding="2" cellspacing="2">
+< ?php if(count($<?php echo $plural_model_name ?>)): ? > 
+	<tr> 
+	    < ?php foreach($content_columns as $column): ? >
+	        <th>< ?php echo $column['human_name'] ? ></th>
+        < ?php endforeach; ? >
+	</tr>
+  
+	< ?php foreach($<?php echo $plural_model_name ?> as $<?php echo $singular_model_name ?>): ? >
+	    <tr>
+		    < ?php foreach($<?php echo $singular_model_name ?>->content_columns as $column): ? >
+    			<td>< ?php echo $<?php echo $singular_model_name ?>->send($column['name']) ? ></td>
+		    < ?php endforeach; ? >
+		    <td>< ?php echo link_to("Show",   array(":action" => "show",   ":id" => $<?php echo $singular_model_name ?>)) ? ></td>
+		    <td>< ?php echo link_to("Edit",   array(":action" => "edit",   ":id" => $<?php echo $singular_model_name ?>)) ? ></td>
+		    <td>< ?php echo link_to("Delete", array(":action" => "delete", ":id" => $<?php echo $singular_model_name ?>), array("confirm" => "Are you sure?")) ? ></td>
+	    </tr>
+	< ?php endforeach; ? >
+< ?php else: ? >
+	<tr>
+		<td>No <?php echo $plural_model_name ?> found.</td>
+	</tr>
+< ?php endif; ? >
+</table>
+
+<br>
+
+< ?php echo link_to("New ".$singular_model_name, array(":action" => "add")) ? >

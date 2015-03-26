@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="203"
+   name=""
+   committed-date="2006-05-26T10:46:01.375714Z"
+   url="svn://svn.phpontrax.com/trax_repository/trax/trunk/trax/vendor/trax/templates/scaffolds"
+   last-author="john"
+   kind="dir"
+   uuid="5ca1ab1f-80fb-0310-a73b-b7d6d46588e9"
+   repos="svn://svn.phpontrax.com/trax_repository"
+   revision="290"/>
+<entry
+   committed-rev="199"
+   name="layout.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-05T01:52:43.249697Z"
+   checksum="1cd691ea311949048f4dacefb7473766"
+   last-author="haas"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="117"
+   name="show.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-19T01:45:19.410861Z"
+   checksum="022510fb22240b2858aeb198d9ed5cce"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   name="generator_templates"
+   kind="dir"/>
+<entry
+   committed-rev="117"
+   name="edit.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-19T01:45:19.410861Z"
+   checksum="aeeda950860e1e5286c6ce651acc183d"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="111"
+   name="scaffold.css"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-10T19:36:47.700657Z"
+   checksum="ae6bcac77181acf76d860331a9af620c"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="117"
+   name="index.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-19T01:45:19.410861Z"
+   checksum="db6fd7a6031b11cef0ea81f6e891f543"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="117"
+   name="add.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-19T01:45:19.410861Z"
+   checksum="e3207029a62681ccd2db110d427a333f"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+</wc-entries>

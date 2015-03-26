@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="249"
+   name=""
+   committed-date="2006-08-24T19:18:40.158116Z"
+   url="svn://svn.phpontrax.com/trax_repository/trax/trunk/trax/vendor/trax/templates"
+   last-author="john"
+   kind="dir"
+   uuid="5ca1ab1f-80fb-0310-a73b-b7d6d46588e9"
+   repos="svn://svn.phpontrax.com/trax_repository"
+   revision="290"/>
+<entry
+   committed-rev="200"
+   name="mailer_model.php"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-23T09:30:12.560345Z"
+   checksum="f5fab8bf7b1580cf97be8e5753702ecd"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   name="scaffolds"
+   kind="dir"/>
+<entry
+   committed-rev="117"
+   name="helper.php"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-19T01:45:19.410861Z"
+   checksum="dcce89c9fe03357ef6f4d18f5c6fb038"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="200"
+   name="mailer_view.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-05-23T09:30:12.560345Z"
+   checksum="67dd4288ab5cddaded09cbe188e0a1f1"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="117"
+   name="model.php"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-19T01:45:19.410861Z"
+   checksum="7cf95bbfc6a026cf13ee8dd62995357c"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="117"
+   name="controller.php"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-01-19T01:45:19.410861Z"
+   checksum="b5f8ae158f97b156f3ff71b5c505fe77"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="249"
+   name="error.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2006-08-24T19:18:40.158116Z"
+   checksum="7471b5f54ee2fcd3d349f7040c3810fa"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+<entry
+   committed-rev="62"
+   name="view.phtml"
+   text-time="2007-05-23T03:09:56.000000Z"
+   committed-date="2005-12-05T06:32:05.038302Z"
+   checksum="c850142430772723238c50f7ea98503c"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:56.000000Z"/>
+</wc-entries>

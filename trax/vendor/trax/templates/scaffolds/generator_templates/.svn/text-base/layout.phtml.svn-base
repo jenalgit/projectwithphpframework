@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Scaffolding : <?php echo $controller_name ?></title>
+< ?php echo stylesheet_link_tag("scaffold", array("media" => "all")) ? >
+</head>
+<body>
+
+< ?php if(Session::isset_flash("notice")): ? >
+    <p style="color: green">< ?php echo Session::flash("notice") ? ></p>
+< ?php elseif(Session::isset_flash("error")): ? >
+    <p style="color: red">< ?php echo Session::flash("error") ? ></p>
+< ?php endif; ? >
+
+< ?php echo $content_for_layout ? >
+
+</body>
+</html>

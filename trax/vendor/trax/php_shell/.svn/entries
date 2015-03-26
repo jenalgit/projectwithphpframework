@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="227"
+   name=""
+   committed-date="2006-07-09T20:53:36.609689Z"
+   url="svn://svn.phpontrax.com/trax_repository/trax/trunk/trax/vendor/trax/php_shell"
+   last-author="john"
+   kind="dir"
+   uuid="5ca1ab1f-80fb-0310-a73b-b7d6d46588e9"
+   repos="svn://svn.phpontrax.com/trax_repository"
+   revision="290"/>
+<entry
+   committed-rev="227"
+   name="shell_prototypes.php"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-07-09T20:53:36.609689Z"
+   checksum="d72d876aa57b87ec3dc3263f81b7398e"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+<entry
+   committed-rev="227"
+   name="shell.php"
+   text-time="2007-05-23T03:09:57.000000Z"
+   committed-date="2006-07-09T20:53:36.609689Z"
+   checksum="d19ff21d9d70e8f684a8082f883451f5"
+   last-author="john"
+   kind="file"
+   prop-time="2007-05-23T03:09:57.000000Z"/>
+</wc-entries>

@@ -1,0 +1,53 @@
+== Welcome to Trax
+
+Trax is a web-application and persistance framework that includes everything
+needed to create database-backed web-applications according to the
+Model-View-Control pattern of separation. This pattern splits the view (also
+called the presentation) into "dumb" templates that are primarily responsible
+for inserting pre-build data in between HTML tags. The model contains the
+"smart" domain objects (such as Account, Product, Person, Post) that holds all
+the business logic and knows how to persist themselves to a database. The
+controller handles the incoming requests (such as Save New Account, Update
+Product, Show Post) by manipulating the model and directing data to the view.
+
+In Trax, the model is handled by what's called a object-relational mapping
+layer entitled Active Record. This layer allows you to present the data from
+database rows as objects and embellish these data objects with business logic
+methods. 
+
+The controller and view is handled by the Action Controller
+
+== Requirements
+
+* Database (MySQL, PostgreSQL, etc) (uses Pear::MDB2)
+* PHP 5.x
+* PEAR::MDB2, PEAR::Mail, PEAR::Mail_mime
+* Apache 1.3.x or 2.x (with mod_rewrite enabled) 
+* FreeBSD, Unix, Linux, MacOSX, Windows
+
+== This Standalone Download of Trax Instructions
+Included with this are all the PEAR Modules needed and Edge Trax
+that can be updated from in the vendor/trax folder bye typing "svn up".
+
+1. Edit public/.htaccess and set the include_path to where your 
+   Trax config folder is located.
+   php_value include_path .:/home/username/trax/config
+2. Since this is standalone you have to also set at the top of the 2 commandline
+   scripts in the Trax "script" folder the location of your php binary 
+   if you want to use the console or generator.
+   Example: 
+     #! /usr/local/bin/php
+     <?php
+3. Set your Apache Vhost or servers DocumentRoot to where your 
+   Trax "public" folder is located. If you don't have access to change
+   Apache then you can place all the contents of the Trax "public" folder
+   in your main publicly accessible folder on your server.  
+   For example: public_html. 
+   If you don't want it in your main folder you can even put the contents of the "public"
+   folder in a new sub-folder in your main publicly accesible folder on your
+   server.  For example, public_html/manager 
+
+== Getting Started
+http://wiki.phpontrax.com/How_do_I_install/upgrade_Trax%3F
+http://wiki.phpontrax.com/How_do_I_create_a_Trax_application%3F
+http://wiki.phpontrax.com/How_Tos
